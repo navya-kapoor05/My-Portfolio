@@ -1,0 +1,24 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background-image:url(logo.png) ;
+    position: fixed;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+a:hover {
+    color: #ffff;
+    text-decoration:underline;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color: #ffff;
+    text-decoration: none;
+}
